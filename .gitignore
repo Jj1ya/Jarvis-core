@@ -1,0 +1,12 @@
+# Environments
+.venv/
+.env
+# Cache
+__pycache__/
+*.pyc
+# Database & Memory
+jarvis_memory/
+*.sqlite3
+*.db
+# OS Files
+.DS_Store
