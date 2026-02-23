@@ -10,3 +10,4 @@ jarvis_memory/
 *.db
 # OS Files
 .DS_Store
+*.log
